@@ -1,0 +1,11 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0x58, 0x32, 0x81, 0xD1, 0xAF, 0x69, 0x97, 0x88}
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+#define TAPPING_TERM 200
+
+#define VIAL_UNLOCK_COMBO_ROWS {0, 0}
+#define VIAL_UNLOCK_COMBO_COLS {0, 1}
+
+#define MASTER_LEFT
