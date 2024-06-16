@@ -14,6 +14,9 @@ COMBO_ENABLE        = no
 
 SPLIT_KEYBOARD = yes
 
+CAPS_WORD_ENABLE    = yes
+
+
 QMK_SETTINGS        = yes
 
 SERIAL_DRIVER = vendor
