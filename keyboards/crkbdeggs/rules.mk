@@ -14,7 +14,7 @@ COMBO_ENABLE        = no
 
 SPLIT_KEYBOARD = yes
 
-QMK_SETTINGS        = no
+QMK_SETTINGS        = yes
 
 SERIAL_DRIVER = vendor
 
